@@ -1,1 +1,1 @@
-# This project is about using Customer Shopping Trends Dataset
+# This data analytics project focuses on exploring and extracting valuable insights from transactional data gathered from three major South African grocery store chains: Checkers, Woolworths, and Pick n Pay. The dataset spans the period between 2020 and 2021, offering a comprehensive view of consumer behavior, purchasing trends, and market dynamics during a critical time period marked by the global COVID-19 pandemic.
